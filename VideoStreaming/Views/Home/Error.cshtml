@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "Error";
+}
+<div class="container text-center mt-5">
+    <h1 class="text-danger">⚠️ Oops! Something went wrong.</h1>
+    <p>Please try again later.</p>
+        <div class="alert alert-warning mt-3 text-start">
+            <p><strong>Path:</strong> @ViewBag.Path</p>
+            <p><strong>Message:</strong> @ViewBag.Message</p>
+            <pre>@ViewBag.StackTrace</pre>
+        </div>
+</div>
