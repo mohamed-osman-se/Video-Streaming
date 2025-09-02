@@ -1,4 +1,5 @@
-# Video Streaming Platform  
+<img width="64" height="64" alt="play-button" src="https://github.com/user-attachments/assets/1f9669f5-0f6a-4cc8-bc5c-1b6044118537" />
+ # Video Streaming Platform  
 
 **Is a** backend-driven video streaming web application where users can upload videos, which are then processed using **FFmpeg**, converted into **HLS (.ts/.m3u8)** format, and streamed seamlessly.  
 
@@ -11,10 +12,10 @@ This project was built to demonstrate **backend engineering skills** such as bac
 
 ---
 
----
+
 ## 📸 Screenshots  
-<img width="599" height="1280" alt="image" src="https://github.com/user-attachments/assets/3d1aefc0-0db9-4939-a70f-97d38b1c7a47" />
-<img width="596" height="1280" alt="image" src="https://github.com/user-attachments/assets/2c771eff-fd27-4d30-973a-86bc5119e673" />
+<img width="599" height="1280" alt="image" src="https://github.com/user-attachments/assets/3d1aefc0-0db9-4939-a70f-97d38b1c7a47" />  <img width="596" height="1280" alt="image" src="https://github.com/user-attachments/assets/2c771eff-fd27-4d30-973a-86bc5119e673" />
+
 
 ---
 
@@ -67,3 +68,15 @@ dotnet restore
 
 # Run the app
 dotnet run
+```
+
+---
+
+### Run With Docker
+
+```bash
+git clone https://github.com/mohamed-osman-se/Video-Streaming.git
+cd Video-Streaming
+
+docker build -t vs-app .
+docker run -p 8080:80 vs-app
