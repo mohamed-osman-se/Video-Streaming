@@ -14,7 +14,9 @@ https://videostreaming-production.up.railway.app/
 
 
 ## 📸 Screenshots  
+<img width="1297" height="705" alt="image" src="https://github.com/user-attachments/assets/bd4555d0-1800-4636-a6c1-fd86374e179f" />
 
+<img width="1297" height="705" alt="image" src="https://github.com/user-attachments/assets/f1441bbe-9a45-497e-a20b-3f1cb1ffe16f" />
 
 ---
 
