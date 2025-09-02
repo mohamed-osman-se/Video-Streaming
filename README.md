@@ -11,6 +11,13 @@ This project was built to demonstrate **backend engineering skills** such as bac
 
 ---
 
+---
+## 📸 Screenshots  
+<img width="599" height="1280" alt="image" src="https://github.com/user-attachments/assets/3d1aefc0-0db9-4939-a70f-97d38b1c7a47" />
+<img width="596" height="1280" alt="image" src="https://github.com/user-attachments/assets/2c771eff-fd27-4d30-973a-86bc5119e673" />
+
+---
+
 ## 🧠 Why This Project?  
 
 I created this project to learn and showcase how to build a **production-ready video streaming service** similar to YouTube or Vimeo at a smaller scale.  
