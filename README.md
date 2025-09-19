@@ -13,6 +13,12 @@ https://videostreaming-production.up.railway.app/
 ---
 
 
+## Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/GvWMuzS36U0/0.jpg)](https://youtu.be/GvWMuzS36U0)
+
+---
+
 ## 📸 Screenshots  
 <img width="1297" height="705" alt="image" src="https://github.com/user-attachments/assets/bd4555d0-1800-4636-a6c1-fd86374e179f" />
 
